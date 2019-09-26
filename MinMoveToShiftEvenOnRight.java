@@ -2,7 +2,7 @@ package com.practice.arrays;
 
 public class MinMoveToShiftEvenOnRight {
     public static void main(String[] args) {
-        int arr[] = new int[]{};
+        int arr[] = new int[]{3,4,7,8,6,5,2};
         System.out.println(getMinMoveToShiftEvenOnLeft(arr));
     }
     public static int getMinMoveToShiftEvenOnLeft(int arr[]){
